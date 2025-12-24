@@ -19,10 +19,10 @@ Curated highlights from my competitive audit engagements and private engagements
 | Tiva Token | Hashlock | ERC-20 | 1M 1L | Private | 
 | Diffuse Protocol | Hashlock | Lending, borrowing, interest rate model | 3M 3L | Private |
 | Toki Finance | Shieldify Security | Lending, borrowing, interest rate model | 1H 5M 6L | [Link](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Toki-Bridge-Security-Review.pdf) |
-| Ruyui Launchpad | Shieldify Security | Launchpad, token sale | 8H 6M 9L  | Private |
+| Private | Shieldify Security | Launchpad, token sale | 8H 6M 9L  | Private |
 | Onyx Launchpad | Private | Launchpad, ICO | 2C 5H 3M 8L | Private |
 | Prime contracts | Shieldify Security | Staking, yield farming |  1H 4M 3L | [Link](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Prime-Vaults-Security-Review.pdf) |
-| Ten market | Codespect| Marketplace, Ten Token |4H 3M 4 L | Private |
+| Private | Codespect| Marketplace, Ten Token |4H 3M 4 L | Private |
 
 
 ### Competitive audits 🏆
