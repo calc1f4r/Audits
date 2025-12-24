@@ -22,6 +22,8 @@ Curated highlights from my competitive audit engagements and private engagements
 | Ruyui Launchpad | Shieldify Security | Launchpad, token sale | 8H 6M 9L  | Private |
 | Onyx Launchpad | Private | Launchpad, ICO | 2C 5H 3M 8L | Private |
 | Prime contracts | Shieldify Security | Staking, yield farming |  1H 4M 3L | [Link](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Prime-Vaults-Security-Review.pdf) |
+| Ten market | Codespect| 4H 3M 4 L | Private |
+
 
 ### Competitive audits 🏆
 
