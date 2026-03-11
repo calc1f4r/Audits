@@ -40,7 +40,7 @@ calc1f4r is a smart contract security researcher specializing in EVM and non-EVM
 
 | # | Client | Categories | Findings | Report |
 |:-:|:-------|:-----------|:---------|:-------|
-| 1 | TradeX Perpetual DEX | Perpetual DEX (Solana) | 1H 5M 6L | [📄](https://github.com/calc1f4r/Audits/blob/main/Reports/Tradex Report.pdf)) |
+| 1 | TradeX Perpetual DEX | Perpetual DEX (Solana) | 1H 5M 6L | [📄](https://raw.githubusercontent.com/calc1f4r/Audits/main/Reports/Tradex%20Report.pdf) |
 | 2 | Onyx Launchpad | Launchpad, ICO | 2C 5H 3M 8L | Private |
 
 ---
